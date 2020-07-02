@@ -1,2 +1,11 @@
-# Composite-Materials
-Códigos em Python usados no curso Mecânica dos Materiais Compósitos
+## Mecânica dos materiais compósitos ##
+
+Este projeto contém os códigos em Python usados na disciplina
+
+Prof. Éder Lima de Albuquerque 
+
+eder@unb.br
+
+Faculdade de Tecnologia
+
+Universidade de Brasília
